@@ -1,0 +1,78 @@
+package_id,contents,declared_value,origin_country,destination_country
+4,Auto parts,145.07,US,MX
+7,Clothing,87.06,US,CA
+24,Medical supplies,518.18,US,CA
+25,Auto parts,725.09,US,CA
+37,Clothing,137.34,US,GB
+293,Books,88.54,US,CA
+334,Handmade gifts,166.74,US,DE
+342,Medical supplies,421.34,US,CA
+364,Books,186.93,US,CA
+436,Consumer electronics,388.38,US,CA
+448,Clothing,125.66,US,CA
+496,Books,50.26,US,MX
+503,Commercial documents,4.44,US,CA
+506,Handmade gifts,222.8,US,CA
+517,Clothing,250.46,US,CA
+574,Books,103.03,US,CA
+596,Consumer electronics,1676.03,US,GB
+647,Clothing,146.27,US,CA
+656,Clothing,116.2,US,GB
+708,Handmade gifts,33.51,US,DE
+710,Medical supplies,609.85,US,GB
+739,Handmade gifts,177.93,US,CA
+744,Medical supplies,108.53,US,CA
+753,Consumer electronics,989.92,US,MX
+802,Books,175.14,US,MX
+850,Clothing,93.79,US,CA
+871,Books,121.4,US,CA
+873,Handmade gifts,126.7,US,CA
+919,Medical supplies,90.52,US,CA
+935,Auto parts,552.65,US,GB
+940,Clothing,169.58,US,CA
+968,Handmade gifts,88.82,US,CA
+977,Consumer electronics,1761.85,US,CA
+1004,Clothing,50.84,US,CA
+1007,Commercial documents,3.34,US,JP
+1013,Handmade gifts,80.41,US,CA
+1031,Handmade gifts,238.3,US,CA
+1082,Clothing,398.97,US,MX
+1106,Consumer electronics,553.0,US,CA
+1133,Books,199.07,US,JP
+1188,Books,97.1,US,CA
+1209,Commercial documents,2.21,US,GB
+1347,Clothing,384.51,US,JP
+1377,Medical supplies,698.05,US,GB
+1434,Handmade gifts,232.5,US,GB
+1467,Books,114.5,US,CA
+1560,Medical supplies,405.08,US,GB
+1577,Handmade gifts,150.4,US,CA
+1610,Books,64.56,US,CA
+1638,Auto parts,385.08,US,MX
+1671,Handmade gifts,122.5,US,GB
+1762,Medical supplies,453.45,US,CA
+1784,Medical supplies,501.23,US,CA
+1799,Auto parts,153.43,US,MX
+1804,Clothing,257.66,US,CA
+1818,Medical supplies,140.55,US,MX
+1861,Auto parts,623.53,US,GB
+1887,Handmade gifts,145.36,US,MX
+1980,Handmade gifts,92.73,US,CA
+2009,Clothing,45.81,US,CA
+2034,Handmade gifts,110.13,US,MX
+2049,Auto parts,392.89,US,CA
+2054,Auto parts,852.74,US,JP
+2086,Consumer electronics,620.64,US,CA
+2111,Medical supplies,153.45,US,MX
+2122,Commercial documents,4.82,US,CA
+2137,Handmade gifts,53.75,US,JP
+2180,Auto parts,274.81,US,CA
+2191,Handmade gifts,203.9,US,CA
+2206,Commercial documents,1.37,US,JP
+2217,Clothing,172.58,US,DE
+2328,Medical supplies,650.47,US,CA
+2381,Handmade gifts,190.35,US,CA
+2406,Books,190.0,US,CA
+2415,Commercial documents,3.15,US,CA
+2453,Medical supplies,169.05,US,MX
+2470,Auto parts,779.26,US,MX

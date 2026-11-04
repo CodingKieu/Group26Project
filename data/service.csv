@@ -1,0 +1,7 @@
+service_id,carrier,service_name,speed,typical_days
+1,UPS,UPS Next Day Air,OVERNIGHT,1
+2,UPS,UPS 2nd Day Air,TWO_DAY,2
+3,UPS,UPS Ground,STANDARD,5
+4,USPS,USPS Priority Mail Express,OVERNIGHT,1
+5,USPS,USPS Priority Mail,TWO_DAY,2
+6,USPS,USPS Ground Advantage,STANDARD,5
